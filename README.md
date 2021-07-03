@@ -24,3 +24,9 @@ AUTHOR : HARIPRIYA.S
 2.Use R or Python or perform this task.
 
 3.Data can be found at https://bit.ly/3cGyP8j
+
+# Task-3 : Exploratory Data Analysis - Retail
+
+1.import libraries and dataset
+
+2.visulaize the data
